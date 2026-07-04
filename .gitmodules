@@ -1,0 +1,9 @@
+[submodule "aws-ec2-apache-webserver"]
+	path = aws-ec2-apache-webserver
+	url = https://github.com/simeonprimordial/aws-ec2-apache-webserver.git
+[submodule "aws-static-website-cloudfront"]
+	path = aws-static-website-cloudfront
+	url = https://github.com/simeonprimordial/aws-static-website-cloudfront.git
+[submodule "aws-wordpress-lightsail"]
+	path = aws-wordpress-lightsail
+	url = https://github.com/simeonprimordial/aws-wordpress-lightsail.git
