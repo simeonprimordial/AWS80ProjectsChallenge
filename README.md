@@ -31,10 +31,10 @@ git submodule update --init --recursive
 
 ## Progress
 
-- [x] Project 1 — Static Website with CloudFront
-- [x] Project 2 — WordPress on Lightsail
-- [x] Project 3 — EC2 + Apache Web Server
-- [ ] Projects 4–80 — in progress
+- [x] Project 1 —> Static Website with CloudFront
+- [x] Project 2 —> WordPress on Lightsail
+- [x] Project 3 —> EC2 + Apache Web Server
+- [ ] Projects 4 – 80 —> in progress
 
 ## About this challenge
 
