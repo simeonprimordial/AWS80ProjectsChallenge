@@ -1,6 +1,6 @@
 # AWS80ProjectsChallenge
 
-My 80 hands-on AWS projects documentation across compute, networking, security, serverless, IaC, CI/CD, DevOps, data, ML & DR — building toward a Cloud/DevOps role.
+My 80 hands-on AWS projects documentation across compute, networking, security, serverless, IaC, CI/CD, DevOps, data, ML & DR - building toward a Cloud/DevOps role.
 
 Each project lives in its own repository and is linked here as a git submodule, so this repo acts as a central index and portfolio for the full challenge.
 
