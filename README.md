@@ -35,7 +35,7 @@ git submodule update --init --recursive
 - [x] Project 1 —> Static Website with CloudFront
 - [x] Project 2 —> WordPress on Lightsail
 - [x] Project 3 —> EC2 + Apache Web Server
-- [x] Project 4 – 80 —> Highly Available Web-App Terraform
+- [x] Project 4 —> Highly Available Web-App Terraform
 - [ ] Projects 5 – 80 —> in progress
 
 ## About this challenge
