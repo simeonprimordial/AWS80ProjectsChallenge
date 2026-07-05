@@ -25,6 +25,7 @@ git submodule update --init --recursive
 | 1 | [aws-static-website-cloudfront](https://github.com/simeonprimordial/aws-static-website-cloudfront) | Hosting a static website with S3 and distributing it via CloudFront |
 | 2 | [aws-wordpress-lightsail](https://github.com/simeonprimordial/aws-wordpress-lightsail) | Deploying a WordPress site on Amazon Lightsail |
 | 3 | [aws-ec2-apache-webserver](https://github.com/simeonprimordial/aws-ec2-apache-webserver) | Deploying and configuring an Apache web server on an EC2 instance |
+| 4 | [highly-available-web-app-terraform](https://github.com/simeonprimordial/highly-available-web-app-terraform) | Provision a highly available Apache web application on AWS using Terraform with an Application Load Balancer, Auto Scaling Group, Launch Template, and Infrastructure as Code best practices. |
 
 
 *More projects will be added here as the challenge progresses, covering networking, security, serverless, IaC, CI/CD, DevOps, data, ML, and disaster recovery.*
@@ -34,7 +35,8 @@ git submodule update --init --recursive
 - [x] Project 1 —> Static Website with CloudFront
 - [x] Project 2 —> WordPress on Lightsail
 - [x] Project 3 —> EC2 + Apache Web Server
-- [ ] Projects 4 – 80 —> in progress
+- [x] Project 4 – 80 —> Highly Available Web-App Terraform
+- [ ] Projects 5 – 80 —> in progress
 
 ## About this challenge
 
