@@ -7,3 +7,6 @@
 [submodule "aws-wordpress-lightsail"]
 	path = aws-wordpress-lightsail
 	url = https://github.com/simeonprimordial/aws-wordpress-lightsail.git
+[submodule "highly-available-web-app-terraform"]
+	path = highly-available-web-app-terraform
+	url = https://github.com/simeonprimordial/highly-available-web-app-terraform.git
