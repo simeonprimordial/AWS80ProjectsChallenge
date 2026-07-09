@@ -10,3 +10,6 @@
 [submodule "highly-available-web-app-terraform"]
 	path = highly-available-web-app-terraform
 	url = https://github.com/simeonprimordial/highly-available-web-app-terraform.git
+[submodule "fintrust-nlb-docker"]
+	path = fintrust-nlb-docker
+	url = https://github.com/simeonprimordial/fintrust-nlb-docker.git
