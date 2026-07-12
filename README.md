@@ -26,17 +26,20 @@ git submodule update --init --recursive
 | 2 | [aws-wordpress-lightsail](https://github.com/simeonprimordial/aws-wordpress-lightsail) | Deploying a WordPress site on Amazon Lightsail |
 | 3 | [aws-ec2-apache-webserver](https://github.com/simeonprimordial/aws-ec2-apache-webserver) | Deploying and configuring an Apache web server on an EC2 instance |
 | 4 | [highly-available-web-app-terraform](https://github.com/simeonprimordial/highly-available-web-app-terraform) | Provision a highly available Apache web application on AWS using Terraform with an Application Load Balancer, Auto Scaling Group, Launch Template, and Infrastructure as Code best practices. |
-
+| 5 | [fintrust-nlb-docker](https://github.com/simeonprimordial/fintrust-nlb-docker) | Containerized Flask application deployed on AWS using Docker, Terraform, Auto Scaling, and a Network Load Balancer. |
+| 6 | [fintrust-customer-portal](https://github.com/simeonprimordial/fintrust-customer-portal) | A production-style cloud application demonstrating the deployment of a containerized Flask web application on AWS using Terraform, Docker, Amazon ECR, Application Load Balancer, Auto Scaling, and Amazon RDS. |
 
 *More projects will be added here as the challenge progresses, covering networking, security, serverless, IaC, CI/CD, DevOps, data, ML, and disaster recovery.*
 
-## Progress
+## Progre
 
 - [x] Project 1 —> Static Website with CloudFront
 - [x] Project 2 —> WordPress on Lightsail
 - [x] Project 3 —> EC2 + Apache Web Server
 - [x] Project 4 —> Highly Available Web-App Terraform
-- [ ] Projects 5 – 80 —> in progress
+- [x] Project 5 —> fintrust-nlb-docker
+- [x] Project 6 —> fintrust-customer-portal
+- [ ] Projects 7 – 80 —> in progress
 
 ## About this challenge
 
