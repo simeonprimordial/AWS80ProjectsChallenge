@@ -13,3 +13,6 @@
 [submodule "fintrust-nlb-docker"]
 	path = fintrust-nlb-docker
 	url = https://github.com/simeonprimordial/fintrust-nlb-docker.git
+[submodule "fintrust-customer-portal"]
+	path = fintrust-customer-portal
+	url = https://github.com/simeonprimordial/fintrust-customer-portal.git
