@@ -16,3 +16,9 @@
 [submodule "fintrust-customer-portal"]
 	path = fintrust-customer-portal
 	url = https://github.com/simeonprimordial/fintrust-customer-portal.git
+[submodule "novatech-serverless-website"]
+	path = novatech-serverless-website
+	url = https://github.com/simeonprimordial/novatech-serverless-website.git
+[submodule "clouddesk-multi-tenant-saas"]
+	path = clouddesk-multi-tenant-saas
+	url = https://github.com/simeonprimordial/clouddesk-multi-tenant-saas.git
